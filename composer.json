@@ -1,0 +1,17 @@
+{
+    "name": "mvc/mvc",
+    "authors": [
+        {
+            "name": "Vital Pyzhyk",
+            "email": "pyzhykvv@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "" : ""
+        }
+    }
+}
